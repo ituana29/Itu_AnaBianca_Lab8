@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "type": "mssql",
+      "connectionId": "Itu_AnaBianca_Lab8Context"
+    }
+  }
+}
